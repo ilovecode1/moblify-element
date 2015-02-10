@@ -1,0 +1,65 @@
+moblify{
+     /*Moblify Terms*/
+
+/* Moblify Web Code was giving to you from Cosmic and at any time you may*/
+/* not remove these terms and/or say you made this. Moblify was not made */
+/*to track or turn a site into a mobile looking site just to size different parts*/
+/*of pages and to make scrolling easier! Using Moblify means you agree*/
+/*with the terms!*/
+
+/*About Moblify*/
+
+/*Moblify uses css to calculate the width of the screen then change the elements*/
+/*So they can fit the screen size*/
+
+/*Version Info*/
+/*version 1.2.5 (current)*/
+
+/*
+1. Responsive text
+2. Responsive img
+3. Disables Mobile Webkit Highlights
+*/
+
+/*Version 1.2*/
+
+/*
+1. Added Eric Meyer's Reset CSS v2.0,
+2. Minified.
+*/
+
+/*Version 1.1.5 */
+
+/*
+1. Better Iphone Support.
+*/
+
+/*Version 1.1*/
+
+/*
+1. Added Video Resizing,
+
+2. Added iFrame Resizing,
+
+3. Updated Picture Resizing,
+
+4. Bug Fix that did not let the user resize on some pages.
+
+5. Added Form Support (Buttons, Text Boxes, etc.)
+*/
+
+/* Eric Meyer's Reset CSS v2.0 - http://cssreset.com */
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{border:0;font-size:100%;font:inherit;vertical-align:baseline;margin:0;padding:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:none}table{border-collapse:collapse;border-spacing:0}*{margin:0;padding:0;overview:scroll;-webkit-overview-scrolling:touch}body,div,fieldset,form,h1,h2,h3,h4,h5,h6,html,p{-webkit-text-size-adjust:none}body{font-size: 3.2vw;}img{max-width:100%; max-height:100%;margin:auto;display:block;}@media (max-width: @screen-xs) {body{font-size: 10px;}}@media (max-width: @screen-sm) {body{font-size: 14px;}}h5{font-size: 1.4em;}@media screen and (max-device-width:480px){img{max-width:100%;height:auto}}@media screen and (max-device-width:480px){body{-webkit-text-size-adjust:auto;font-family:Helvetica,Arial,Verdana,sans-serif;padding:5px}}.hide{display:none}input[type=checkbox]{width:44px;height:44px;-webkit-border-radius:22px;-moz-border-radius:22px;border-radius:22px;border:1px solid #bbb}input[type=range]{width:100%}input[type=range]::-webkit-slider-thumb{-webkit-appearance:none;width:44px;height:44px;background:#fdfdfd;background:-moz-linear-gradient(top,#fdfdfd 0,#bebebe 100%);background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,#fdfdfd),color-stop(100%,#bebebe));background:-webkit-linear-gradient(top,#fdfdfd 0,#bebebe 100%);background:-o-linear-gradient(top,#fdfdfd 0,#bebebe 100%);background:-ms-linear-gradient(top,#fdfdfd 0,#bebebe 100%);background:linear-gradient(to bottom,#fdfdfd 0,#bebebe 100%);border:1px solid #bbb;-webkit-border-radius:22px;-moz-border-radius:22px;border-radius:22px}button[type=submit]{-webkit-appearance:none;-moz-appearance:none;display:block;margin:1.5em 0;font-size:1em;line-height:2.5em;color:#333;font-weight:700;height:2.5em;width:100%;background:#fdfdfd;background:-moz-linear-gradient(top,#fdfdfd 0,#bebebe 100%);background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,#fdfdfd),color-stop(100%,#bebebe));background:-webkit-linear-gradient(top,#fdfdfd 0,#bebebe 100%);background:-o-linear-gradient(top,#fdfdfd 0,#bebebe 100%);background:-ms-linear-gradient(top,#fdfdfd 0,#bebebe 100%);background:linear-gradient(to bottom,#fdfdfd 0,#bebebe 100%);border:1px solid #bbb;-webkit-border-radius:10px;-moz-border-radius:10px;border-radius:10px}input[type=email],input[type=password],input[type=tel],input[type=text],input[type=url]{-webkit-appearance:none;-moz-appearance:none;display:block;margin:0;width:100%;height:40px;line-height:40px;font-size:17px;border:1px solid #bbb}embed,object,video{max-width:100%}.video{position:relative;padding-bottom:56.25%;height:0;overflow:hidden}.video embed,.video iframe,.video object{position:absolute;top:0;left:0;width:100%;height:100%}img{width:auto;height:auto}.wrapper{width:100%}li,p{margin-bottom:10px}h1{height:0}h2{margin-bottom:10px}ul{margin-left:25px}img{border:none}#page-wrap{min-width:780px;max-width:1260px;margin:10px auto}#page-wrap #inside{margin:10px 10px 0;padding-top:10px;padding-bottom:10px}#main-content{padding-left:230px;padding-top:20px}#header{text-align:center}#left-sidebar{width:150px;float:left;padding-left:15px;padding-top:20px}#footer{text-align:center;padding-top:20px;padding-bottom:20px}@media screen and (max-width:500px){/ #header{position:static}}@media screen and (max-width:500px){.tabs{padding:3px 1em}}img,input,textarea{max-width:100%}h1 {font-size: 5.9vw;}h2 {font-size: 3.0vh;}p {font-size: 2vmin;}body {font-size:100%; }p {font-size: 0.875em; line-height: 1em;  }@media screen and (max-width: 30em) {body {font-size: 90%;}} @media screen and (max-width: 20em) {body {font-size: 80%;}}body {font-size: 18px;}h1,h2,h3,h4,h5,h6,p {line-height: 1.45;}h1 { font-size: 4em; }h2 { font-size: 3em; }h3 { font-size: 2em; }h4 { font-size: 1em; }html {font-size: 20px;}body {  -webkit-touch-callout: none;  -webkit-user-select: none;  -khtml-user-select: none;  -moz-user-select: none;  -ms-user-select: none;  user-select: none;  }  a[href],input[type='submit'], input[type='image'], label[for], select, button, .pointer {  cursor: pointer;  }  
+
+/*
+Moblify Print by Andrew Rodebaugh
+
+Add this code to the end of Moblify.css
+
+or
+
+After importing Moblify.css
+*/
+
+@media print{*{float:none;width:auto}body{font-family:"Times New Roman",Times,serif;font-size:12pt;background:#fff;color:#000;margin:0}a:link,a:visited{color:#520;background:0 0;font-weight:700;text-decoration:underline}#hide{display:none}h1,h2,h3,h4,h5,h6{page-break-after:avoid;page-break-inside:avoid}img{page-break-inside:avoid;page-break-after:avoid}blockquote,pre,table{page-break-inside:avoid}dl,ol,ul{page-break-before:avoid}}  
+}
