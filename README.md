@@ -1,7 +1,7 @@
 #How to run it!
 
-<script src="me.js"></script>
+`<script src="me.js"></script>`
 
-<style src="Moblify.css">
+`<style src="moblify.css">`
 
-Then use <moblify></moblify>!
+Then use `<moblify></moblify>`!
